@@ -1,0 +1,1 @@
+document.getElementById('result').innerHTML = JSON.stringify(window._env_, null, 2);
